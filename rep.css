@@ -1,0 +1,157 @@
+.s1{
+background-size: cover;
+position: relative;
+left: 100px;
+right: 100px;
+padding-top: 0px;
+padding-right: 90px;
+}
+.sign{
+	margin: 0px; 
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+.signin{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 200px;
+    padding-top: 0px;
+    color: white;
+    font-size: 40px;
+    margin: 0px; 
+
+}
+.textbook{
+	background-color: #3abaac;
+	height: 370px;
+    margin-top: 5px;	
+    width: auto;
+}
+.child{
+   font-family: 'Open Sans', sans-serif; 
+   color:white; 
+   font-weight: bold;
+   padding-left: 200px;
+   font-size: 40px;
+   margin: 0px;
+   padding-top: 5px;
+}
+.grow{
+   position: relative;
+   right: 0px;
+   padding-right: 0px;
+
+}
+.start{
+   font-family: 'Open Sans', sans-serif;
+   color: #d83230;
+   font-size: 36px;
+   margin: 0px;
+   padding-left: 600px;
+}
+.Teachers{
+   font-family: 'Open Sans', sans-serif;
+   color: #d83230;
+   font-size: 36px;
+   margin: 0px;
+   padding-left: 560px;
+}
+.tab{
+	border-style: solid;
+	border-color: red;
+	border-top: transparent;
+	border-bottom: transparent;
+	border-left-color: red;
+	border-right-color: red;
+
+}
+a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+
+}
+td{
+	padding-left: 100px;
+	}
+tr{
+
+	border-style: solid;
+	border-color: red;
+	border-top: transparent;
+	border-bottom: transparent;
+	border-left-color: red;
+	border-right-color: red;
+	column-span: 50px;
+}
+.get{
+	background-image: url("images/rep4.jpg");
+	display: inline-block;
+	height:; 
+	width:;
+}
+.login{
+	background-color: rgb(173, 40, 38);
+	height:275px;
+	width:300px;
+	position: relative;
+	left: 200px;
+}
+.emails{
+	padding-top: 25px;
+    padding-left: 20px;
+    background-color: 
+}
+
+tm-scroll {
+    overflow: auto;
+    background: #fff;
+    width: 242px;
+    height: 300px;
+    padding: 17px 17px 0 17px;
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    border: 1px solid black;
+}
+div.panel {
+    background-color: #f4f1ea;
+    text-align: center;
+}
+div.quote {
+    text-align: center;
+}
+div.video-main {
+    width: 1015px;
+    text-align: center;
+    display: inline-flex;
+}
+div.watch {
+    width: 315px;
+    height: 350px;
+    background-color: white;
+}
+div.sticky {
+    overflow-y: scroll;
+    position: sticky;
+    height: 330px;
+    margin: 15px;
+    width: 285px;
+    background-color: white;
+    border: 1px solid #d2d2d2;
+}
+div.watch2 {
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 6px;
+    width: 260px;
+    padding-left: 5px;
+}
+div.video-info {
+    text-align: left;
+    font-size: 85%;
+    font-weight: bolder;
+}
